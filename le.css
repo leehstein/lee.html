@@ -31,3 +31,7 @@ body {
    color: deeppink;
     font-style: italic
 }
+nav a:hover {
+    color: blue;
+    text-decoration: underline;
+}
